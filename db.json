@@ -1,0 +1,32 @@
+{
+  "tweets": [
+    {
+      "user": "Sergio",
+      "content": "content1",
+      "likes": 18,
+      "retweets": "1",
+      "id": 12
+    },
+    {
+      "user": "Sergio",
+      "content": "content1",
+      "likes": 21,
+      "retweets": "1",
+      "id": 16
+    },
+    {
+      "user": "yo",
+      "content": "conten2",
+      "likes": "4",
+      "retweets": "4",
+      "id": 17
+    },
+    {
+      "user": "yo",
+      "content": "conten2",
+      "likes": "4",
+      "retweets": "4",
+      "id": 18
+    }
+  ]
+}
